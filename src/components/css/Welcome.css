@@ -1,0 +1,478 @@
+.header-welcome {
+    background: linear-gradient( rgba(0,0,0,0.7), rgba(0,0,0,0.7));
+    background-image: url(https://img.freepik.com/vector-premium/fondo-colorido-acuarela_23-2148106566.jpg?w=826);
+    height: 3046px;
+    margin-top: 3%; 
+}
+
+.subtitulo {
+    color: #8f7193;
+    font-family: 'Dancing Script bold', cursive;
+}
+
+.pie{
+color: darkcyan;
+}
+
+
+
+.buscar-sitio{
+    width: 72%;
+    text-align: -webkit-center;
+    border-color:chartreuse;
+    border-radius: 0.5rem;
+}
+
+.text-link{
+    border-color:chartreuse;
+    border-radius: 0.5rem;
+}
+
+.imagen1 {
+   
+    background-image: url(https://enlaniebla.es/wp-content/uploads/2020/12/pintar-casa-invierno.jpg);
+    height: 424px;
+    width: 1140px; 
+    margin-left: 5%;
+    border-radius: 10.5rem;
+    margin-top: 2%;
+    position: absolute;
+
+}
+
+.header1{
+    background-color: wheat;
+}
+
+.descripcion{
+ margin-left: 93%;
+ background-color: blueviolet;
+ border-radius: 1.5rem;
+ margin-bottom: 29%;
+ margin-top: 5%;
+ color: white;
+ font-family: 'Dancing Script', cursive;
+ font-size: 1.8rem;
+}
+
+.imagen2{
+    background-image: url(https://i.pinimg.com/474x/0d/9f/fb/0d9ffb741edc7071c856e8ab1f141589.jpg);
+    height: 60%;
+    width: 35%; 
+    border-radius: 4.5rem;
+    margin-top: 43%;
+    position: absolute;
+    margin-left: 1%;
+    border: 1px solid;
+    border-color:#7ff9c7;
+}
+
+.imagen5{
+    background-image: url(https://i.pinimg.com/564x/20/e1/24/20e124dea6b797d775e929be07ddcef9.jpg);
+    height: 98%;
+    width: 98%; 
+    border-radius: 4.5rem;
+    margin-top: 0%;
+    position: absolute;
+    margin-left: 183%;
+    border: 1px solid;
+    border-color:#7ff9c7;
+}
+
+.imagen3{
+    background-image: url(https://i.pinimg.com/564x/3c/3b/e3/3c3be300399eb9dd4f7c73985725d0c9.jpg);
+    height: 54%;
+    width: 22%; 
+    border-radius: 4.5rem;
+    margin-top: -139%;
+    position: absolute;
+    margin-left: 35%;
+}
+
+.imagen4{
+    background-image: url(https://i.pinimg.com/564x/f5/cb/a8/f5cba870b220e180442d7459db79590c.jpg);
+    height: 54%;
+    width: 22%; 
+    margin-left: 35%;
+    border-radius: 4.5rem;
+    margin-top: -107%;
+    position: absolute;
+}
+
+.imagen6{
+    background-image: url(https://thumbs.dreamstime.com/b/gama-de-colores-y-cepillo-de-color-23506021.jpg);
+    height: 70%;
+    width: 59%; 
+    margin-left: 2%;
+    border-radius: 4.5rem;
+    margin-top: -63%;
+    position: absolute;
+}
+
+.imagen7{
+    background-image: url(https://www.ceresita.com/images/home/follow/2021-09-03/3-RRSS-INSTAGRAM.png);
+    height: 28%;
+    width: 21%; 
+    margin-left: 27%;
+    border-radius: 4.5rem;
+    margin-top: 1%;
+    position: absolute;
+}
+
+.imagen8{
+    background-image: url(https://www.ceresita.com/images/home/follow/2021-09-03/3-RRSS-PINTEREST.png);
+    height: 29%;
+    width: 21%; 
+    margin-left: 2%;
+    border-radius: 4.5rem;
+    margin-top: 1%;
+    position: absolute;
+}
+
+.imagen9{
+    background-image: url(https://www.ceresita.com/images/home/follow/2021-09-03/3-RRSS-YOUTUBE.png);
+    height: 29%;
+    width: 21%; 
+    margin-left: 53%;
+    border-radius: 4.5rem;
+    margin-top: 1%;
+    position: absolute;
+}
+
+.imagen10{
+    background-image: url(https://www.ceresita.com/images/home/follow/2021-09-03/3-RRSS-SPOTIFY.png);
+    height: 29%;
+    width: 21%; 
+    margin-left: 78%;
+    border-radius: 4.5rem;
+    margin-top: 1%;
+    position: absolute;
+}
+
+
+
+.descuento{
+    background-color: #7ff9c7;
+    position: absolute;
+    margin-left: -5%;
+    margin-top: 38%;
+    border-radius: 1rem;
+    font-weight: bold;
+    width: 1416px;
+    height: 500px;
+}
+
+.row{
+    display: flex;
+
+}
+
+.hr-1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 6px solid rgba(0,0,0,.1);
+}
+
+.un{
+    margin-top: 2%;
+}
+
+.todo{
+    margin-bottom: 394%;
+}
+
+.menu{
+    background-color: #fdcae1;
+    position: absolute;
+    color:darkslateblue;
+    margin-top: -140%;
+    border-radius: 1rem;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+   
+}
+
+.linea{
+    margin-bottom: 2%;
+    margin-left: 56%;
+    margin-top: 12%;
+    font-size: 3.5rem;
+    
+}
+
+.edad{
+   
+    color: #d2c684;
+    position: absolute;
+
+}
+
+.huincha{
+    width: 1349px;
+    height: 210px;
+    margin-bottom: 1%;
+}
+
+.lateral{
+    width: 20%;
+    height: 10%;
+    color: darkslateblue;
+    margin-left: 30%;
+    position: absolute;
+}
+
+.btn-success{
+    background-color: hotpink;
+    color: #fff;
+    border-color: hotpink;
+}
+
+.descripcion2{
+    margin-top: -22%;
+    position: absolute;
+    margin-left: 72%;
+}
+
+.menu2{
+    background-color:#fdfd96;
+    position: absolute;
+    color:olive;
+    margin-top: -109%;
+    border-radius: 1rem;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+}
+
+.menu3{
+    background-color:cornflowerblue;
+    position: absolute;
+    color:white;
+    margin-top: -76%;
+    border-radius: 1rem;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+}
+
+.barra{
+    margin-bottom: 23%;
+    margin-left: -69%;
+    margin-top: 5%;
+    font-size: 3.5rem;
+}
+
+.linea2{
+    margin-bottom: 23%;
+    margin-left: -68%;
+    margin-top: 14%;
+    font-size: 3.5rem;
+}
+
+.linea3{
+    margin-bottom: 23%;
+ 
+    margin-top: 5%;
+    font-size: 3.5rem;
+}
+.edad2{
+   
+    color: #d2c684;
+    position: absolute;
+
+}
+
+.huincha2{
+    width: 1349px;
+    height: 200px;
+    margin-bottom: 1%;
+}
+
+.huincha3{
+    width: 1349px;
+    height: 628px;
+    margin-bottom: 1%;
+}
+
+.descripcion3{
+    margin-top: -22%;
+    position: absolute;
+    margin-left: 8%;
+}
+
+.descripcion1-2{
+    margin-top: -22%;
+    position: absolute;
+    margin-left: 8%;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color:darkslateblue;
+    border-color: darkslateblue;
+}
+
+.btn2{
+    width: 44%;
+    height: 15%;
+    margin-left: 159%;
+    margin-top: 57%;
+    position: absolute;
+    font-size: 1.3rem;
+    background-color:orange;
+    border-color: orange;
+    color: white;
+    border-radius: 1rem;
+}
+
+.btn2-success:hover {
+    color: #fff;
+    background-color:darkkhaki;
+    border-color: darkkhaki;
+}
+
+
+.boton-imagen3{
+    margin-left: -113%;
+    margin-top: 50%;
+    background-color: #b186f1;
+    color: #fff;
+    border-color: #b186f1;
+}
+
+.baño{
+    margin-left: 61%;
+    margin-top: 2%;
+}
+
+.producto{
+    margin-left: 101%;
+    margin-top: 18%;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    background-color: rgba(0,0,0,.1);
+    height: 32%;
+    width: 63%;
+    border-radius: 4.5rem;
+    text-align: center;
+    padding: 3%;
+}
+
+.copyright{
+   
+    font-size: 1.5rem;
+   
+    color: aliceblue;
+}
+
+footer {
+    padding: 30px 0;
+    background: #42ab49;
+    margin-top: 0%;
+}
+
+.custom-content {
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    width: auto;
+    margin-bottom: -22px;
+    margin-left: -22px;
+}
+
+.custom-primero{
+    align-self: center;
+    text-align: center;
+    flex: 0 0 auto;
+    margin-bottom: 22px;
+    padding-left: 22px;
+    max-width: 100%;
+    width: 33.33333%;
+}
+
+.custom-item-imagen{
+    width: 100%;
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    max-width: 100%;
+}
+
+.imagen-avent{
+    background-image: url(https://cdn.shopify.com/s/files/1/0387/0087/5907/files/logo-avnet_540x.jpg?v=1639681753);
+    height: 45%;
+    width: 37%;
+    margin-top: -67%;
+    position: absolute;
+    margin-left: 2%;
+    border-radius: 12.5rem;
+}
+
+
+
+.imagen-corazon{
+    background-image: url(https://cdn.shopify.com/s/files/1/0387/0087/5907/files/mam-baby-vector-logo_540x.png?v=1648576847);
+    width:40%;
+    height:45%; 
+    margin-top: -66%;
+    position: absolute;
+    margin-left: 58%;
+    border-radius: 12.5rem;
+}
+
+.final{
+    background-color: cornflowerblue;
+    position: absolute;
+}
+
+.huincha-final{
+    width: 1363px;
+    height: 579px;
+    margin-top: 5%;
+}
+.imagen-manitos{
+    margin-top: 5%;
+}
+
+.columna-1{
+    background-color:#b186f1;
+    position: absolute;
+    width: 1347px;
+    height: 492px;
+    border-radius: 0.5rem;
+    margin-left: 0%;
+}
+
+.boton-deco{
+    margin-left: 66%;
+    margin-top: 50%;
+    background-color: #ff6961;
+    color: #fff;
+    border-color: #ff6961;
+}
+
+.huincha4{
+    background-color:#ff6961;
+    width: 1349px;
+    height: 213px;
+    margin-top: -22%;
+}
+
+.btn5{
+    width: 13%;
+    height: 10%;
+    margin-left: 22%;
+    margin-top: -40%;
+    position: absolute;
+    font-size: 1.3rem;
+    background-color:#7ff9c7;
+    border-color: #7ff9c7;
+    color:blue;
+    border-radius: 1rem;
+}
+
+
+
+
+
+

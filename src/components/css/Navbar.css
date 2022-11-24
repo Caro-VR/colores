@@ -1,0 +1,84 @@
+.navbar {
+    background-color: wheat ;
+    justify-content: space-between; 
+}
+
+.nav{
+    display: flex;
+}
+
+
+.rounded {
+    border-radius: 0.5rem !important;
+}
+
+.titulo-1 {
+    font-family: 'Dancing Script', cursive;
+    color: cadetblue;
+    /* margin-left: -90%; */
+    text-align: center;
+    font-size: 4rem;
+}
+
+.manos{
+    margin-left: 2%;
+}
+
+.ma{
+    color: cadetblue;
+}
+
+.de{
+    color: blueviolet;
+}
+
+.ni{
+    color: darkorange;
+}
+
+.tos{
+    color: crimson;
+}
+
+.co{
+color: darkgreen;
+}
+
+.lo{
+color: dodgerblue;
+}
+
+.res{
+color: darkslateblue;
+}
+
+.button-registro {
+    border: 2px solid #8f7193;
+    background-color: gainsboro;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    color: #8f7193;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    margin-left: 4%;
+  
+}
+
+.inicio {
+    border: 2px solid #8f7193;
+    background-color: gainsboro;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    color: #8f7193;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    margin-left: -80%;
+    
+}
+
+.botones {
+    display: flex;
+    /* margin-left: 39%; */
+}
+
+
